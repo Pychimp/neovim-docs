@@ -1,0 +1,25 @@
+# Created by http://www.gitignore.io
+
+### vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
+### Linux ###
+*~
+
+
+### VirtualEnv ###
+# Virtualenv (for stuff on `rst-format` branch)
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ss]cripts
+
+
