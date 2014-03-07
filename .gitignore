@@ -23,3 +23,6 @@ Session.vim
 [Ss]cripts
 
 
+### User writtern stuff ###
+# Ignore the `.html` files genereated from rst2html.py
+*.html
